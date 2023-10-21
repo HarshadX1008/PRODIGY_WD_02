@@ -2,6 +2,9 @@
 
 <h2>
   Prodigy Infotech - Web Development - Task #3
+  <h3>
+    Tic-Tac-Toe Web Application
+  </h3>
 </h2>
 
 ![image](https://github.com/HarshadX1008/PRODIGY_WD_03/assets/148632380/2a676089-8676-4b74-934c-81bed8711447)
